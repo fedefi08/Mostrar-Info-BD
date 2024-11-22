@@ -1,0 +1,10 @@
+C:\Users\fede_\source\repos\ConexcionBdDiscos\ConexcionBdDiscos\bin\Debug\ConexcionBdDiscos.exe.config
+C:\Users\fede_\source\repos\ConexcionBdDiscos\ConexcionBdDiscos\bin\Debug\ConexcionBdDiscos.exe
+C:\Users\fede_\source\repos\ConexcionBdDiscos\ConexcionBdDiscos\bin\Debug\ConexcionBdDiscos.pdb
+C:\Users\fede_\source\repos\ConexcionBdDiscos\ConexcionBdDiscos\obj\Debug\ConexcionBdDiscos.csproj.AssemblyReference.cache
+C:\Users\fede_\source\repos\ConexcionBdDiscos\ConexcionBdDiscos\obj\Debug\ConexcionBdDiscos.Form1.resources
+C:\Users\fede_\source\repos\ConexcionBdDiscos\ConexcionBdDiscos\obj\Debug\ConexcionBdDiscos.Properties.Resources.resources
+C:\Users\fede_\source\repos\ConexcionBdDiscos\ConexcionBdDiscos\obj\Debug\ConexcionBdDiscos.csproj.GenerateResource.cache
+C:\Users\fede_\source\repos\ConexcionBdDiscos\ConexcionBdDiscos\obj\Debug\ConexcionBdDiscos.csproj.CoreCompileInputs.cache
+C:\Users\fede_\source\repos\ConexcionBdDiscos\ConexcionBdDiscos\obj\Debug\ConexcionBdDiscos.exe
+C:\Users\fede_\source\repos\ConexcionBdDiscos\ConexcionBdDiscos\obj\Debug\ConexcionBdDiscos.pdb
